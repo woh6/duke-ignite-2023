@@ -1,7 +1,7 @@
 # duke-ignite-2023
 
 ## About The Project
-
+<img width="222" alt="Screen Shot 2023-04-01 at 7 33 55 PM" src="https://user-images.githubusercontent.com/122172228/229322777-46559e73-17ee-41db-af9c-10295443afb7.png">
 A Machine Learning Model that uses Forex/Crypto candlestick data to project future trends in returns. Our model implements a Neural Network and LSTM method to
 create the most accurate financial model using changes in prices and returns from the past six years. The data was pulled in a series of .txt files from the 
 [Alpaca Stock and Crypto API](https://alpaca.markets/data) and the [FirstRate Data API](https://firstratedata.com/). This includes the high, low, open, 
@@ -9,11 +9,6 @@ and close prices on a minute by minute basis. More information on the used candl
 See diagram below.
 
 <img src="https://user-images.githubusercontent.com/122172228/229301976-f88dbd19-ff83-452d-a022-f8354a155bc0.png" width="700" height="450">
-
-
-## Built With
-Visual Studio Code and the Alpaca Jupyter API.
-
 
 ## Contact
 Lor Heng - jl850@duke.edu <br> 
