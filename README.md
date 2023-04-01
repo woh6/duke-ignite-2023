@@ -22,6 +22,8 @@ Michael Puglise - mjp102@duke.edu <br>
 Will Harris - woh6@duke.edu <br>
 Alejandro Breen - ab993@duke.edu
 
+Project Link: https://github.com/woh6/duke-ignite-2023
+
 
 ## Acknowledgments
 - Duke Ignite 2023
