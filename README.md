@@ -29,7 +29,7 @@ Project Link: https://github.com/woh6/duke-ignite-2023
 - Duke Ignite 2023
 - Alpaca Stock and Crypto API 
 - FirstRate Data API
-- Jupyter
+- Jupyter Notebook
 - Code.org
 - VSCode
 - Investopedia
