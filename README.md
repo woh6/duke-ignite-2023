@@ -11,7 +11,7 @@ and close prices on a minute by minute basis. More information on the used candl
 See diagram below.
 
 <img src="https://user-images.githubusercontent.com/122172228/229301976-f88dbd19-ff83-452d-a022-f8354a155bc0.png" width="700" height="450">
-
+ 
 ## Contact
 Lor Heng - jl850@duke.edu <br> 
 Will Neuner - wjn7@duke.edu <br>
